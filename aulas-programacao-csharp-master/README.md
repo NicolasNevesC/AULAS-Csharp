@@ -224,4 +224,4 @@ Prof. Ermogenes Palacio, 2020-.
 ![GitHub followers](https://img.shields.io/github/followers/ermogenes?label=seguidores&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/ermogenes?style=social)
 
-💪 Contributor [👨🏻‍🏫 @diegoneri](https://github.com/diegoneri)
+💪 Contributor [👨🏻‍ @NicolasNevesC](https://github.com/NicolasNevesC)
