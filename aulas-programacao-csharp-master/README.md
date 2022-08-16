@@ -211,9 +211,9 @@ Obs.: Os materiais podem citar versões anteriores das ferramentas, mas você de
 
 ## 🎉 Terminei, e agora?
 
-Faça o [Dev Web](https://github.com/ermogenes/aulas-programacao-web) e aprenda a criar aplicações para a Web.
+Faça o [Dev Web](https://github.com/NicolasNevesC/AULAS-WEB) e aprenda a criar aplicações para a Web.
 
-[![Dev Web](content/logo-dev-web.png)](https://github.com/ermogenes/aulas-programacao-web)
+[![Dev Web](content/logo-dev-web.png)]([https://github.com/NicolasNevesC/AULAS-WEB)]
 
 ---
 
